@@ -111,6 +111,8 @@ class Subscriber extends \Magento\Framework\Model\AbstractModel
      */
     protected $_storeManager;
 
+    protected $anotherProtectedVar;
+
     /**
      * @var CustomerRepositoryInterface
      */
